@@ -1,0 +1,1 @@
+export const API_BASE_URL: string = 'https://frontend-take-home-service.fetch.com';
